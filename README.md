@@ -17,11 +17,13 @@
 
 # 坚持维护更新中~
 
-喜欢的点个star,方便下次再来^_^。
+**喜欢的点个star,方便下次再来^_^。**
+
+**想交流iOS技术的；也欢迎加入 iOS高级技术交流群：[937194184](https://jq.qq.com/?_wv=1027&k=5PARXCI)**
 
 ***
 
-**文末推荐：iOS热门面试文集**
+### 文末推荐：iOS热门面试文集
 
 * **①　[BAT等各个大厂iOS面试真题+答案大全](https://github.com/LGBamboo/iOS-Advanced)**
 
