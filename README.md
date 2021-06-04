@@ -18,3 +18,13 @@
 # 坚持维护更新中~
 
 喜欢的点个star,方便下次再来^_^。
+
+***
+
+**文末推荐：iOS热门面试文集**
+
+* **①　[BAT等各个大厂iOS面试真题+答案大全](https://github.com/LGBamboo/iOS-Advanced)**
+
+* **②　[iOS中高级开发必看的热门书籍（经典必看）](https://github.com/LGBamboo/iOS-Mark)**
+
+* **③　[iOS开发高级面试"简历制作"指导](https://github.com/LGBamboo/iOS-Mark)**
